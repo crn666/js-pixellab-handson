@@ -69,3 +69,15 @@ for (var i = 0; i < friendsLength; i++) {
     friend.surname + ' ' + friend.name + ' are mai mult de 13 caractere.',
   );
 }
+
+// for (var i = 0; i < 99; i++) {
+//   console.log(i);
+// }
+
+// for (; i < 150; i++) {
+//   console.log(i);
+// }
+
+// if (true) {
+//   let hello = 'world';
+// }
